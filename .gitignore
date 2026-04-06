@@ -1,3 +1,10 @@
+### IDE and Project Ignores ###
+*.class
+/out/
+out/
+.idea/
+*.iml
+
 ### IntelliJ IDEA ###
 out/
 !**/src/main/**/out/
